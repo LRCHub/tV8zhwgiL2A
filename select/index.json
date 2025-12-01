@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "表裏一体",
+  "base_artist": "ゆず",
+  "createdAt": "2025-12-01T11:05:50.407414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "表裏一体",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/01_表裏一体_ゆず.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "表裏一体",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/02_表裏一体_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "表裏一体",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/03_表裏一体_ゆず.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゆず「表裏一体」",
+      "artist": "YUZU",
+      "has_synced": true,
+      "path": "select/04_ゆず「表裏一体」_YUZU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "表裏一体！？怪盗いいんちょの悩み♥",
+      "artist": "◇◆噂の怪盗少女 ぷらずま★彡Prim◇◆",
+      "has_synced": false,
+      "path": "select/05_表裏一体!_怪盗いいんちょの悩み♥_◇◆噂の怪盗少女_ぷらずま★彡Prim◇◆.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "表裏一体!?怪盗いいんちょの悩み♥",
+      "artist": "Prim",
+      "has_synced": false,
+      "path": "select/06_表裏一体!_怪盗いいんちょの悩み♥_Prim.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "表裏一体",
+      "artist": "Sokoninaru",
+      "has_synced": true,
+      "path": "select/07_表裏一体_Sokoninaru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "表裏一体",
+      "artist": "そこに鳴る",
+      "has_synced": true,
+      "path": "select/08_表裏一体_そこに鳴る.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "表裏一体",
+      "artist": "Soko ni Naru",
+      "has_synced": true,
+      "path": "select/09_表裏一体_Soko_ni_Naru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "表裏一体",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_表裏一体_ゆず.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "表裏一体",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_02_表裏一体_ゆず.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "表裏一体",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_03_表裏一体_ゆず.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "表裏一体",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_04_表裏一体_ゆず.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "表裏一体",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_05_表裏一体_ゆず.txt"
+    }
+  ]
+}
